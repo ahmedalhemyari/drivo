@@ -1,7 +1,7 @@
 
 # Drivo - Car Renting Platform 
 
-![Drivo Main](public/screenshots/drivo-main.jpg)
+![Drivo Main](public/screenshots/drivo-main.webp)
 
 Drivo is a modern, fully-integrated car rental platform optimized for high performance and engineered to deliver an exceptional user experience. The platform combines a robust backend architecture with responsive, interactive interfaces to provide a seamless rental experience.
 
